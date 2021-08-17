@@ -1,0 +1,22 @@
+.page-container {
+  max-width: 820px;
+  width: 60%;
+  margin: auto;
+}
+
+ul {
+  display: flex;
+  justify-content: flex-end;
+  background-color: rgb(35, 51, 99);
+  margin: 0;
+  padding: 20px;
+}
+
+li {
+  list-style: none;
+  margin: auto 20px;
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
